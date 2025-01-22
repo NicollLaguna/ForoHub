@@ -1,5 +1,5 @@
 
-# ForoHub
+# ForoHub🖥️🙂💬
 
 ForoHub is a RESTful API built with Spring Boot that manages a discussion forum. It allows users to authenticate, create, modify, delete, and view forum topics, ensuring data integrity with validations and secure authentication using JWT. The API also supports pagination for fetching topics.
 
